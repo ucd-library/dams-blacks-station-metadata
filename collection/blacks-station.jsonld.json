@@ -25,7 +25,7 @@
     "@type": "http://www.w3.org/2001/XMLSchema#gYear",
     "@value": "2025"
   },
-  "schema:description": "Bromide print showing Peter Roth's residence at Black's Station (later Zamora) in Yolo County, California, with people, buildings, and landscape documenting the town's role as a late 19th-century agricultural shipping depot.",
+  "schema:description": "Bromide print showing Peter Roth's residence at Black's Station (later Zamora) in Yolo County, California, with people, buildings, and landscape documenting the town's role as a late 19th-century agricultural shipping depot. \n\n The finding aid is available at the [Online Archive of California](https://oac.cdlib.org/findaid/ark:/13030/c8hd83rf).",
   "schema:identifier": [
     "MC-385",
     "ark:/87293/d3b853s0r"
